@@ -1,0 +1,26 @@
+h1,h4 {
+ text-align:center;
+}
+h2,h6{
+  text-align:center;
+  font-family:Exo;
+  color:rgb(119,136,153);
+}
+footer{
+  background-color:black;
+  color:white;
+  font-family:Exo;
+}
+
+.internal{
+  text-align:center;
+  letter-spacing: 3px;
+  color:rgb(255, 219, 88);
+}
+#crumb{
+  background-color:transparent;
+}
+.vaycay{
+  background-color:rgb(255,182,193);
+  color:black;
+}
