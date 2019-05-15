@@ -1,0 +1,23 @@
+img{
+  display:block;
+  max-width:100%;
+  height:auto;
+}
+.row{
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+#space{
+  padding-top:5rem;
+}
+#room{
+  padding-bottom:5rem;
+}
+#more{
+  padding-top:2rem;
+}
+#little-more{
+  padding-top:2rem;
+}
